@@ -1,19 +1,15 @@
 # Site settings
-title: Open Infrastructure Services, LLC
+title: cacophony.io
 header-img: img/home-bg.jpg
 email: jeff@openinfrastructure.co
 description: > # this means to ignore newlines until "baseurl:"
-  Open Infrastructure Services, LLC provides IT infrastructure consulting
-  services.  Founded by Jeff McCune, an experienced Linux systems administrator
-  and software developer with over a 10 years of industry experience.
-  Specializing in Puppet, service oriented architecture, agile methodologies,
-  and DevOps practices.
+  Cacophony App
 baseurl: ""
-url: "http://www.openinfrastructure.co"
+url: "http://www.cacophony.io"
 twitter_username: "0xEFF"
-github_username: jeffmccune
-facebook_username: mccune.jeff
-linkedin_username: jeffmccune
+github_username: cacophonyapp
+facebook_username: 
+linkedin_username: 
 
 # Build settings
 markdown: kramdown
